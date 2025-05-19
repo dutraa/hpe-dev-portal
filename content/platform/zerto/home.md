@@ -8,19 +8,19 @@ width: large
 priority: 11
 active: true
 ---
-HPE Zerto Software empowers customers to run an always-on business by simplifying the protection, recovery, and mobility of on-premises and cloud applications. HPE Zerto's continuous data protection (CDP) eliminates the risks and complexity of modernization and cloud adoption across private, public, and hybrid deployments. The simple, software-only solution uses continuous data protection at scale to converge disaster recovery, backup, and data mobility. Zerto is trusted by over 9,500 customers globally and is powering offerings for Microsoft Azure, IBM Cloud, AWS (Amazon Web Services), Google Cloud, Oracle Cloud, and more than 350 managed service providers.  
+HPE Zerto Software empowers customers to run an always-on business by simplifying the protection, recovery, and mobility of on-premises and cloud applications. HPE Zerto's continuous data protection (CDP) eliminates the risks and complexity of modernization and cloud adoption across private, public, and hybrid deployments. The simple, software-only solution uses continuous data protection at scale to converge disaster recovery, backup, and data mobility. HPE Zerto is trusted by over 9,500 customers globally and is powering offerings for Microsoft Azure, IBM Cloud, AWS (Amazon Web Services), Google Cloud, Oracle Cloud, and more than 350 managed service providers.  
 
 Learn more about [HPE Zerto](https://hpe.com/zerto-software)
 
 ## Welcome to the HPE Zerto Hacker Hub!
 
-On this page, will be provided the tools to help you get started in deploying and managing Zerto’s CDP, which leverages its proprietary near-synchronous replication capabilities to protect and restore virtual machines and public cloud instances. Zerto offers an extensive REST API with Swagger support that enables users to programmatically create and manage end-to-end disaster recovery workflows.  
+On this page, will be provided the tools to help you get started in deploying and managing HPE Zerto’s CDP, which leverages its proprietary near-synchronous replication capabilities to protect and restore virtual machines and public cloud instances. HPE Zerto offers an extensive REST API with Swagger support that enables users to programmatically create and manage end-to-end disaster recovery workflows.  
 
 Get started by diving into [our GitHub page](https://github.com/ZertoPublic) or check out the documentation at <https://help.zerto.com>
 
 ### Simplify automation with HPE Zerto’s REST Swagger APIs
 
-HPE Zerto’s REST Swagger APIs offer a powerful and user-friendly way to automate and integrate HPE Zerto into your existing IT workflows. These APIs provide a comprehensive set of endpoints that allow you to programmatically manage, monitor, and control your HPE Zerto environment with ease. Whether you are looking to automate routine tasks, integrate with third-party tools, or develop custom applications, Zerto’s REST APIs make it straightforward and efficient.
+HPE Zerto’s REST Swagger APIs offer a powerful and user-friendly way to automate and integrate HPE Zerto into your existing IT workflows. These APIs provide a comprehensive set of endpoints that allow you to programmatically manage, monitor, and control your HPE Zerto environment with ease. Whether you are looking to automate routine tasks, integrate with third-party tools, or develop custom applications, HPE Zerto’s REST APIs make it straightforward and efficient.
 
 With Swagger, developers can interactively explore and test the APIs, making it easier to understand their capabilities and integrate them into your systems. The Swagger interface provides clear documentation and real-time testing capabilities, ensuring that you can quickly get up to speed and start leveraging HPE Zerto’s powerful features.
 
@@ -30,7 +30,7 @@ For more information and to access the HPE Zerto REST Swagger APIs, visit the [H
 
 ### Unlock powerful insights with HPE Zerto Resiliency Observation Console
 
-Meet the HPE Zerto Resiliency Observation Console (zROC) – a dynamic, Docker-compose based software stack designed to transform your Zerto API data into rich, visual insights using Prometheus and Grafana. This innovative tool empowers you to monitor and analyze your data effortlessly.
+Meet the HPE Zerto Resiliency Observation Console (zROC) – a dynamic, Docker-compose based software stack designed to transform your HPE Zerto API data into rich, visual insights using Prometheus and Grafana. This innovative tool empowers you to monitor and analyze your data effortlessly.
 
 What sets zROC apart is its custom Prometheus exporter code, crafted to seamlessly integrate with standard Prometheus and Grafana containers. The comprehensive configuration files included in the repository ensure that you can start deriving value immediately, straight out of the box.
 
@@ -40,13 +40,11 @@ Explore the HPE Zerto Resiliency Observation Console today on our [GitHub page](
 
 ### HPE Zerto In-Cloud Software for AWS
 
-HPE Zerto In-Cloud Software for AWS is disaster recovery for EC2 instances between regions and availability zones. HPE Zerto In-Cloud for AWS blends the familiar HPE Zerto approach to disaster recovery for workloads with the AWS native platform capabilities and services. HPE Zerto In-Cloud for AWS features virtual protection groups, non-disruptive to production failover testing to isolated environments, and disaster recovery failover orchestration. 
+HPE Zerto In-Cloud Software for AWS is disaster recovery for EC2 instances between Regions and Availability Zones. HPE Zerto In-Cloud for AWS blends the familiar HPE Zerto approach to disaster recovery for workloads with the AWS native platform capabilities and services. HPE Zerto In-Cloud for AWS features virtual protection groups, non-disruptive to production failover testing to isolated environments, and disaster recovery failover orchestration. 
 
 HPE Zerto In-Cloud for AWS supports 1000+ instance types and is 100% API-first developed to enable automation tools integration. 
 
 Linked to our [GitHub here](https://github.com/ZertoPublic/ZIC-AWS) are the Terraform files you can use to start experimenting with HPE Zerto In-Cloud for AWS.  
-
-
 
 ## Resources
 
